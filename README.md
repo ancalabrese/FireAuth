@@ -1,2 +1,2 @@
-# AuthFire
+# FireAuth
 WIP 
